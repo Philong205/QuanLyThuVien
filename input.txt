@@ -1,0 +1,4 @@
+Book; ID: TL001; Ten: He dieu hanh; Ma so ke: jk123; Nam: 2012; So luong: 3; Tac gia: Quoc; The loai: cong nghe ; Tinh trang: moi; Ma sach: mh154; Ngon ngu: Viet Nam 
+Magazine; ID: TL002; Ten: thit kho trung; Ma so ke: hj756; Nam: 2002; So luong: 2; Tac gia: bi mat; The loai: am thuc; Tinh trang: moi; So phat hanh: 5647; Thang phat hanh: 2; Ngon ngu: Viet Nam
+Dia; ID: TL003; Ten: conan; Ma so ke: ju478; Nam: 2002; So luong: 20; Tac gia: khong biet; The loai: hoat hinh ; Tinh trang: da qua su dung; Dung luong: 5.12; Loai dia: CD
+Book; ID: TL004; Ten: OOP; Ma so ke: hy456; Nam: 2024; So luong: 3; Tac gia: Loan; The loai: cong nghe; Tinh trang: moi; Ma sach: kh125; Ngon ngu: Viet Nam
