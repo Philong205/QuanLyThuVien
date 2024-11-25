@@ -10,7 +10,7 @@ public class Main {
         while (choice != 5) {
             System.out.println("---------------------------------------------------------------------");
             System.out.println("=== MENU CHINH ===");
-            System.out.println("1. Quan ly Nhan vien");
+            System.out.println("1. Quan ly Nhan su");
             System.out.println("2. Quan ly Doc gia");
             System.out.println("3. Quan ly Tai lieu");
             System.out.println("4. Quan ly Hoa don");
